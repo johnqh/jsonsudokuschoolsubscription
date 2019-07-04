@@ -12,7 +12,7 @@
         {  
             "key":"2",
             "title":"Monthly",
-            "iap":"Monthly",
+            "iap":"SudokuDojoMonthly",
             "period":"1",
             "period_unit":"m",
             "price":"$9.95",
@@ -21,7 +21,7 @@
         {  
             "key":"3",
             "title":"Quarterly",
-            "iap":"Quarterly",
+            "iap":"SudokuDojoQuarterly",
             "period":"3",
             "period_unit":"m",
             "price":"$19.95",
@@ -30,7 +30,7 @@
         {  
             "key":"4",
             "title":"Yearly",
-            "iap":"Yearly",
+            "iap":"SudokuDojoYearly",
             "period":"12",
             "period_unit":"m",
             "price":"$39.95",
