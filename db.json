@@ -3,6 +3,7 @@
         {  
             "key":"1",
             "title":"Free",
+            "iap":"<null>",
             "period":"<null>",
             "period_unit":"<null>",
             "price":"<null>",
@@ -11,6 +12,7 @@
         {  
             "key":"2",
             "title":"Monthly",
+            "iap":"Monthly",
             "period":"1",
             "period_unit":"m",
             "price":"$9.95",
@@ -19,6 +21,7 @@
         {  
             "key":"3",
             "title":"Quarterly",
+            "iap":"Quarterly",
             "period":"3",
             "period_unit":"m",
             "price":"$19.95",
@@ -27,6 +30,7 @@
         {  
             "key":"4",
             "title":"Yearly",
+            "iap":"Yearly",
             "period":"12",
             "period_unit":"m",
             "price":"$39.95",
